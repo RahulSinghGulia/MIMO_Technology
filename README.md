@@ -9,6 +9,7 @@ This repository explores topics related to **sensor array processing** within th
 - **`MIMO.pdf`**:  
   A file containing a **mindmap** of the entire MIMO technology tutorial series.  
   - This file will be **regularly updated** as the series progresses.
+  - Download the file to view the contents of the file properly.
 
 ---
 
